@@ -1,0 +1,15 @@
+# IPython log file
+
+%logstart -ort AdamPassalacqua_1_4_4.log
+%run "C:\Users\Adam\Downloads\1_4_4_sourceFiles\earthEyes.py"
+%run "C:\Users\Adam\Downloads\1_4_4_sourceFiles\earthEyes.py"
+%run "C:\Users\Adam\Downloads\1_4_4_sourceFiles\earthEyes.py"
+%run "C:\Users\Adam\Downloads\1_4_4_sourceFiles\earthEyes.py"
+earth_small.save('smallEarth.png')
+%logstop
+%cd "C:\Users\Adam\Documents\Python"
+# Mon, 27 Nov 2017 12:34:57
+%run "C:\Users\Adam\Downloads\1_4_4_sourceFiles\earthEyes.py"# Mon, 27 Nov 2017 12:35:10
+earth_small.save('smallEarth.png')
+# Mon, 27 Nov 2017 12:35:14
+%logstop
