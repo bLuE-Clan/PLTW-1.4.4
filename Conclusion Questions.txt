@@ -1,0 +1,6 @@
+1. The main class we used was PIL. The methods and attributes helped us to manipulate
+   the images, and paste them on top of each other.
+
+2. When saving the files at the end of the activity, abstraction made it much easier
+   by allowing you to only give the file savename, instead of the entire directory.
+
